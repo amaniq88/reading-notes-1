@@ -1,4 +1,4 @@
-# Read: Class 01 - Code 401
+# Read: Class 01
 ## To Finish those 2 years in 10 weeks you will pay the price of pain... but its not a Normal Pain , its the type of pain you love and you will request it from time to time since it will stimulate your brain cells and neurons!
 
 >Dont Confuse Pain with Suffering
@@ -20,10 +20,6 @@
 # A beginner's guide to Big-O Notation By ROB BELL:
 
 > It Descirbes the Performance or complexity of an algorithm so understanding it Allows you to make the correct choices and acknowledge trade-offs when working with different data sets.
-
-## Good Code: 
-- Readability 
-- Scalable (Big O)
 
 ---- 
 # Ned Batchelder - Facts and Myths about Python names and values - PyCon 2015
