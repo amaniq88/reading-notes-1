@@ -19,5 +19,5 @@
 | Python Core Certificate|[SoloLearn.Certificate](SoloLear_Cert.md)|
 | Terminal  |[Ter.Notes](terminal(Tutorials).md)|
 | SQL      | [SQL.Notes](sql.md)|
-| The Growth Mindset   |[Mindset.Notes]()|
+| The Growth Mindset   |[Mindset.Notes](TheGrowthMindset.md)|
 ---
