@@ -14,10 +14,10 @@
 ---
 # Code 401 - Advanced Software Development
 ---
-| Task     | Link |
+| Task  | Link |
 | :- | :- |
-| SQL      | [SQL Notes]()|
-| The Growth Mindset   |[The Growth Mindset Notes]()|
-| CLI   |[CLI Notes]()|
-| Python Core Certificate|[SoloLearn Certificate]()|
+| Python Core Certificate|[SoloLearn.Certificate](SoloLear_Cert.md)|
+| Terminal  |[Ter.Notes](terminal(Tutorials).md)|
+| SQL      | [SQL.Notes](sql.md)|
+| The Growth Mindset   |[Mindset.Notes]()|
 ---
