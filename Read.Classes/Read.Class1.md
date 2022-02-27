@@ -1,10 +1,9 @@
 # Read: Class 01
-<<<<<<< HEAD
+
 
 ## To Finish those 2 years in 10 weeks you will pay the price of pain... but its not a Normal Pain , its the type of pain you love and you will request it from time to time since it will stimulate your brain cells and neurons
 =======
 ## To Finish those 2 years in 10 weeks you will pay the price of pain... but its not a Normal Pain , its the type of pain you love and you will request it from time to time since it will stimulate your brain cells and neurons!
->>>>>>> 45c5c0274bfdbbdde00a76763ac314c18bfa4260
 
 >Dont Confuse Pain with Suffering
 
@@ -28,17 +27,10 @@
 
 > It Descirbes the Performance or complexity of an algorithm so understanding it Allows you to make the correct choices and acknowledge trade-offs when working with different data sets.
 
-<<<<<<< HEAD
-## Good Code
-
-- Readability
-- Scalable (Big O)
-
 ----
 
 =======
 ---- 
->>>>>>> 45c5c0274bfdbbdde00a76763ac314c18bfa4260
 # Ned Batchelder - Facts and Myths about Python names and values - PyCon 2015
 
 ## [check the video](https://www.youtube.com/watch?v=_AEJHKGk9ns)
